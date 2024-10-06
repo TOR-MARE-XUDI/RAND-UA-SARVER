@@ -1,2 +1,1 @@
-
-Mozilla/5.0 (Linux; Android 10; SM-G900L) AppleWebKit/537.36 ( KHTML, like  Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+[FBAN/com.facebook.lite;FBAV/249.469.480.180;FBBV/296023984;FBDM/{density=3.0,width=1440,height=2560};FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.opera;FBDV/SM-A515F;FBSV/8;FBOP/19;FBCA/armeabi-v7a:armeabi;]
