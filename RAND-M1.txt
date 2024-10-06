@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/78.0.0.16.67;FBBV/30529816;FBDM/{density=2.0,width=1080,height=2460};FBLC/en_US;FBCR/Jio 4G;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix_40 Pro;FBSV/13;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629337;FBDM/{density=1.325,width=1280,height=736};FBLC/en_US;FBRV/210796532;FBCR/Jio 4G;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo TB-X304L;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
