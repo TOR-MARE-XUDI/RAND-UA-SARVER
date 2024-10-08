@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-S135DL) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36
+[FBAN/FB4A;FBAV/270.0.0.57.127;FBBV/214125778;FBDM/{density=2.25,width=720,height=1440};FBLC/en_US;FBRV/214824289;FBCR/Banglalink;FBMF/Alcatel;FBBD/TCL;FBPN/com.facebook.katana;FBDV/Alcatel Onyx;FBSV/8.1.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
